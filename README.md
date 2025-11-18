@@ -2,7 +2,7 @@
 
 > Real-world Azure operational templates and documentation from enterprise-scale deployments. No vendor fluff, no basic tutorials — just the stuff that actually works at scale.
 
-**By [David Swann](https://azure-noob.com)** | Azure Architect managing 44 subscriptions, 31,000+ resources, and enterprise mergers
+**By [David Swann](https://azure-noob.com)** | Azure Architect specializing in enterprise-scale operations
 
 ---
 
@@ -68,8 +68,8 @@ AI-powered Azure operations using Model Context Protocol servers
 **Enterprise Reality:**
 - Which subscription goes in which management group?
 - How do we handle cost allocation when applications span multiple subscriptions?
-- What's our NSG rule strategy across 44 subscriptions?
-- How do we migrate 21 Active Directory domains during a merger?
+- What's our NSG rule strategy across dozens of subscriptions?
+- How do we migrate multiple Active Directory domains during a merger?
 
 This repository addresses the **second set of questions**.
 
@@ -103,19 +103,6 @@ See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for guidelines on:
 - Submitting operational patterns
 - Reporting issues
 - Code review process
-
----
-
-## Real-World Context
-
-This repository emerged from managing:
-- **44 Azure subscriptions** across multiple business units
-- **31,000+ Azure resources** in production
-- **Major merger consolidation** (Synovus + Pinnacle Financial, Q1 2026)
-- **21 Active Directory domains** during migration
-- **Hybrid cloud** with on-premises integration
-
-These aren't theoretical examples — this is production code that runs daily operations for a $122 billion financial institution.
 
 ---
 
@@ -154,11 +141,9 @@ Free to use, modify, and distribute. Attribution appreciated but not required.
 
 ## About the Author
 
-**David Swann** is an Azure Architect at Synovus, managing enterprise-scale Azure infrastructure including complex merger consolidations and multi-subscription governance. 
+**David Swann** maintains [azure-noob.com](https://azure-noob.com), documenting real-world Azure operational challenges that don't make it into vendor documentation or certification courses.
 
-He maintains [azure-noob.com](https://azure-noob.com), documenting real-world Azure operational challenges that don't make it into vendor documentation.
-
-**Not on LinkedIn** (company policy) — connect via blog comments or GitHub issues.
+**Connect**: Blog comments or GitHub issues (not on LinkedIn due to employer policy)
 
 ---
 
