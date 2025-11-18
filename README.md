@@ -124,6 +124,7 @@ When you hit a problem that Azure docs didn't cover, write it down. That's your 
 
 ## Related Resources
 
+- **Blog Post**: [Why I Open-Sourced This Repository](https://azure-noob.com/blog/open-source-enterprise-azure-ops/) - The story and strategy behind building portable IP
 - **Blog**: [azure-noob.com](https://azure-noob.com) - In-depth articles on enterprise Azure operations
 - **Azure Resource Graph**: [Official Docs](https://learn.microsoft.com/azure/governance/resource-graph/)
 - **FinOps Foundation**: [finops.org](https://www.finops.org/)
