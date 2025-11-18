@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Work in progress
+drafts/
+TODO.txt
+NOTES.txt
+WIP-*.md
+
+# Sensitive
+*secret*
+*password*
+*credential*
+*.pem
+*.key
+.azure/
