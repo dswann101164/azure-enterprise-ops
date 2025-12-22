@@ -159,3 +159,28 @@ All examples use RFC 1918 private addressing, placeholder values, and generic na
 **⭐ Star this repo** if you find it useful — helps others discover real-world Azure operations content.
 
 **🔗 Share your own patterns** via pull requests — the community benefits when we share operational reality.
+
+
+---
+
+## ?? Documentation & Related Guides
+
+Enterprise operations span governance, cost management, compliance, and automation:
+
+**Governance & Compliance:**
+- **[Azure Governance Hub](https://azure-noob.com/hub/governance/)** - Policy enforcement, compliance frameworks, and audit preparation
+- **[Azure Policy Reality Check](https://azure-noob.com/blog/azure-policy-reality-check/)** - What Azure Policy actually does (and doesn't do)
+- **[Security & Compliance Hub](https://azure-noob.com/hub/security/)** - SOC 2, PCI-DSS, and audit implementation guides
+
+**Cost Management:**
+- **[Azure FinOps Hub](https://azure-noob.com/hub/finops/)** - Cost visibility, optimization, and chargeback strategies
+- **[Azure Cost Optimization Guide](https://azure-noob.com/blog/azure-cost-optimization-complete-guide/)** - What actually works beyond Azure Advisor
+
+**Hybrid Infrastructure:**
+- **[Azure Arc Hub](https://azure-noob.com/hub/arc/)** - Managing on-prem + cloud infrastructure at enterprise scale
+
+**Full blog:** [azure-noob.com](https://azure-noob.com) - Enterprise Azure operational patterns from environments managing 44 subscriptions and + annual spend
+
+---
+
+**Production-tested operational templates for enterprise Azure environments.**
